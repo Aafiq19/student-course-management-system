@@ -5,7 +5,6 @@ A full-stack Student Course Management System built using **React**, **Spring Bo
 This project is developed as a university learning project following production-inspired architecture and Git collaboration practices.
 
 ---
-
 ## 🚀 Tech Stack
 
 ### Frontend
@@ -28,7 +27,6 @@ This project is developed as a university learning project following production-
 - PostgreSQL
 
 ---
-
 ## 📂 Project Structure
 
 ```
